@@ -1,5 +1,0 @@
-class phjshud
-{
-    psvm
-    
-}
